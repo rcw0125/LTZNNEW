@@ -1837,5 +1837,29 @@ namespace LTZN.调度
 
             loadDdLuCi();
         }
+
+        private void repositoryItemTimeEdit_dgsj_Enter(object sender, EventArgs e)
+        {        
+            if (((DevExpress.XtraEditors.TimeEdit)sender).EditValue == null)
+            {
+                ((DevExpress.XtraEditors.TimeEdit)sender).EditValue = DateTime.Now;
+            }
+        }
+
+        private void repositoryItemTimeEdit_tzsj_Enter(object sender, EventArgs e)
+        {
+            if (((DevExpress.XtraEditors.TimeEdit)sender).EditValue == null)
+            {
+                ((DevExpress.XtraEditors.TimeEdit)sender).EditValue = DateTime.Now;
+            }
+        }
+
+        private void repositoryItemTimeEdit_dksj_Enter(object sender, EventArgs e)
+        {
+            if (((DevExpress.XtraEditors.TimeEdit)sender).EditValue == null)
+            {
+                ((DevExpress.XtraEditors.TimeEdit)sender).EditValue = DateTime.Now;
+            }
+        }
     }
 }

@@ -759,6 +759,7 @@
             this.repositoryItemTimeEdit_dgsj.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.repositoryItemTimeEdit_dgsj.Mask.EditMask = "t";
             this.repositoryItemTimeEdit_dgsj.Name = "repositoryItemTimeEdit_dgsj";
+            this.repositoryItemTimeEdit_dgsj.Enter += new System.EventHandler(this.repositoryItemTimeEdit_dgsj_Enter);
             // 
             // colkksj
             // 
@@ -786,6 +787,7 @@
             this.repositoryItemTimeEdit_dksj.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.repositoryItemTimeEdit_dksj.Mask.EditMask = "t";
             this.repositoryItemTimeEdit_dksj.Name = "repositoryItemTimeEdit_dksj";
+            this.repositoryItemTimeEdit_dksj.Enter += new System.EventHandler(this.repositoryItemTimeEdit_dksj_Enter);
             // 
             // coltzsj
             // 
@@ -809,6 +811,7 @@
             this.repositoryItemTimeEdit_tzsj.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.repositoryItemTimeEdit_tzsj.Mask.EditMask = "t";
             this.repositoryItemTimeEdit_tzsj.Name = "repositoryItemTimeEdit_tzsj";
+            this.repositoryItemTimeEdit_tzsj.Enter += new System.EventHandler(this.repositoryItemTimeEdit_tzsj_Enter);
             // 
             // colwdsj
             // 
