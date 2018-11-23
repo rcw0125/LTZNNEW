@@ -1,0 +1,20 @@
+licenses.resx身份资源文件里的内容
+C1.Win.C1Chart.C1Chart, C1.Win.C1Chart.4, Version=4.0.20181.296, Culture=neutral, PublicKeyToken=a22e16972c085838
+C1.Win.C1Input.C1DateEdit, C1.Win.C1Input.4, Version=4.0.20181.296, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a
+C1.Win.C1FlexGrid.C1FlexGrid, C1.Win.C1FlexGrid.4, Version=4.0.20181.296, Culture=neutral, PublicKeyToken=79882d576c6336da
+C1.Win.C1Input.C1Button, C1.Win.C1Input.4, Version=4.0.20181.296, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a
+C1.Win.C1Input.C1TextBox, C1.Win.C1Input.4, Version=4.0.20181.296, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a
+C1.Win.C1Command.C1DockingTab, C1.Win.C1Command.4, Version=4.0.20181.296, Culture=neutral, PublicKeyToken=e808566f358766d8
+将4.0转换为2.0的dll，因为在4.0的flexGrid中，没有了saveexcel方法
+C1.Win.C1Input.C1Button, C1.Win.C1Input.2, Version=2.0.20181.296, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a
+C1.Win.C1Chart.C1Chart, C1.Win.C1Chart.2, Version=2.0.20181.296, Culture=neutral, PublicKeyToken=a22e16972c085838
+C1.Win.C1Input.C1DateEdit, C1.Win.C1Input.2, Version=2.0.20181.296, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a
+C1.Win.C1Input.C1NumericEdit, C1.Win.C1Input.2, Version=2.0.20181.296, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a
+C1.Win.C1Input.C1TextBox, C1.Win.C1Input.2, Version=2.0.20181.296, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a
+C1.Win.C1FlexGrid.C1FlexGrid, C1.Win.C1FlexGrid.2, Version=2.0.20181.296, Culture=neutral, PublicKeyToken=79882d576c6336da
+C1.Win.C1Command.C1DockingTab, C1.Win.C1Command.2, Version=2.0.20181.296, Culture=neutral, PublicKeyToken=e808566f358766d8
+
+引用c1组件，不能简单的添加引用dll，而必须使用在窗体中添加c1控件的方式添加，添加该控件，会 自动添加dll引用，同时在licenses。resx中
+添加该控件的信息
+
+确认.net框架为4.0，而componentone组件引用的为2.0，因为c1flexgrid4.0的组件没有saveexcel的方法，不能直接到处到excel

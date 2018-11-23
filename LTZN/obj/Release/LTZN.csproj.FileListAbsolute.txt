@@ -1,0 +1,1015 @@
+D:\LTZN\LTZN\bin\Release\LTZN.exe.config
+D:\LTZN\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+D:\LTZN\LTZN\obj\Release\LTZN.exe
+D:\LTZN\LTZN\obj\Release\LTZN.pdb
+E:\LTZN\LTZN\bin\Release\LTZN.exe.config
+E:\LTZN\LTZN\bin\Release\LTZN.exe.manifest
+E:\LTZN\LTZN\bin\Release\LTZN.application
+E:\LTZN\LTZN\bin\Release\LTZN.exe
+E:\LTZN\LTZN\bin\Release\LTZN.pdb
+E:\LTZN\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\LTZN\LTZN\obj\Release\ResolveAssemblyReference.cache
+E:\LTZN\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+E:\LTZN\LTZN\obj\Release\LTZN.MsgContentForm.resources
+E:\LTZN\LTZN\obj\Release\LTZN.MsgSendForm.resources
+E:\LTZN\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+E:\LTZN\LTZN\obj\Release\LTZN.Properties.Resources.resources
+E:\LTZN\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+E:\LTZN\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+E:\LTZN\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+E:\LTZN\LTZN\obj\Release\LTZN.密码更改窗体.resources
+E:\LTZN\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+E:\LTZN\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+E:\LTZN\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+E:\LTZN\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+E:\LTZN\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+E:\LTZN\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+E:\LTZN\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+E:\LTZN\LTZN\obj\Release\LTZN.数据分析.产量.resources
+E:\LTZN\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+E:\LTZN\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+E:\LTZN\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+E:\LTZN\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+E:\LTZN\LTZN\obj\Release\LTZN.查询.基准风温.resources
+E:\LTZN\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+E:\LTZN\LTZN\obj\Release\LTZN.查询.查询条件.resources
+E:\LTZN\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+E:\LTZN\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+E:\LTZN\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+E:\LTZN\LTZN\obj\Release\LTZN.用户管理.resources
+E:\LTZN\LTZN\obj\Release\LTZN.登陆窗体.resources
+E:\LTZN\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+E:\LTZN\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+E:\LTZN\LTZN\obj\Release\LTZN.exe.licenses
+E:\LTZN\LTZN\obj\Release\RdlCompile.cache
+E:\LTZN\LTZN\obj\Release\RdlCompile.compiled
+E:\LTZN\LTZN\obj\Release\LTZN.exe.manifest
+E:\LTZN\LTZN\obj\Release\LTZN.application
+E:\LTZN\LTZN\obj\Release\LTZN.exe
+E:\LTZN\LTZN\obj\Release\LTZN.pdb
+E:\LTZN\LTZN\obj\Release\LTZN.ParaForm.resources
+E:\LTZN\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\LTZN\LTZN\bin\Release\LTZN.exe.config
+C:\LTZN\LTZN\bin\Release\LTZN.exe.manifest
+C:\LTZN\LTZN\bin\Release\LTZN.application
+C:\LTZN\LTZN\bin\Release\LTZN.exe
+C:\LTZN\LTZN\bin\Release\LTZN.pdb
+C:\LTZN\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\LTZN\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\LTZN\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\LTZN\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\LTZN\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\LTZN\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\LTZN\LTZN\bin\Release\office.dll
+C:\LTZN\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\LTZN\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\LTZN\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\LTZN\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\LTZN\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\LTZN\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\LTZN\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\LTZN\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\LTZN\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\LTZN\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\LTZN\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\LTZN\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\LTZN\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\LTZN\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\LTZN\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\LTZN\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\LTZN\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\LTZN\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\LTZN\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\LTZN\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\LTZN\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\LTZN\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\LTZN\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\LTZN\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\LTZN\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\LTZN\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\LTZN\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\LTZN\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\LTZN\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\LTZN\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\LTZN\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\LTZN\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\LTZN\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\LTZN\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\LTZN\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\LTZN\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\LTZN\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\LTZN\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\LTZN\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\LTZN\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\LTZN\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\LTZN\LTZN\obj\Release\LTZN.用户管理.resources
+C:\LTZN\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\LTZN\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\LTZN\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\LTZN\LTZN\obj\Release\LTZN.exe.licenses
+C:\LTZN\LTZN\obj\Release\RdlCompile.cache
+C:\LTZN\LTZN\obj\Release\RdlCompile.compiled
+C:\LTZN\LTZN\obj\Release\LTZN.exe.manifest
+C:\LTZN\LTZN\obj\Release\LTZN.application
+C:\LTZN\LTZN\obj\Release\LTZN.exe
+C:\LTZN\LTZN\obj\Release\LTZN.pdb
+C:\LTZN\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\LTZN2.30\LTZN\bin\Release\LTZN.exe.config
+C:\LTZN2.30\LTZN\bin\Release\LTZN.exe.manifest
+C:\LTZN2.30\LTZN\bin\Release\LTZN.application
+C:\LTZN2.30\LTZN\bin\Release\LTZN.exe
+C:\LTZN2.30\LTZN\bin\Release\LTZN.pdb
+C:\LTZN2.30\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\LTZN2.30\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\LTZN2.30\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\LTZN2.30\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\LTZN2.30\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\LTZN2.30\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\LTZN2.30\LTZN\bin\Release\office.dll
+C:\LTZN2.30\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\LTZN2.30\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\LTZN2.30\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\LTZN2.30\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\LTZN2.30\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\LTZN2.30\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\LTZN2.30\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.用户管理.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\LTZN2.30\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\LTZN2.30\LTZN\obj\Release\LTZN.exe.licenses
+C:\LTZN2.30\LTZN\obj\Release\RdlCompile.cache
+C:\LTZN2.30\LTZN\obj\Release\RdlCompile.compiled
+C:\LTZN2.30\LTZN\obj\Release\LTZN.exe.manifest
+C:\LTZN2.30\LTZN\obj\Release\LTZN.application
+C:\LTZN2.30\LTZN\obj\Release\LTZN.exe
+C:\LTZN2.30\LTZN\obj\Release\LTZN.pdb
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\LTZN.exe.config
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.exe
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.pdb
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\LTZN.exe.manifest
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\LTZN.application
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\LTZN.exe
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\LTZN.pdb
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\office.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.Query.AdvanceQueryForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.用户管理.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.exe.licenses
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.exe.manifest
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.application
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料质量分析.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.60\LTZN\obj\Release\LTZN.高炉燃料比综合分析.原料品味分析.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\LTZN.exe.config
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\LTZN.exe.manifest
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\LTZN.application
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\LTZN.exe
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\LTZN.pdb
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\NPOI.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\office.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\bin\Release\NPOI.xml
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.Query.AdvanceQueryForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.查询.铁水质量查询条件.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.用户管理.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.澳矿成分录入.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.原料品味分析.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.入炉原料结构.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.回收率分析.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.数据汇总.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.热风炉顶压力分析.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料消耗分析.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.风温富氧率分析.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料质量分析.resources
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.exe.licenses
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.exe.manifest
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.application
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.exe
+C:\Documents and Settings\Administrator\桌面\LTZN2.61\LTZN\obj\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\LTZN.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\LTZN.application
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\LTZN.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\office.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\bin\Release\NPOI.xml
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.Query.AdvanceQueryForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.Cr趋势.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.Mn趋势.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.Ni趋势.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.P趋势.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.原料分类.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.烧结矿P趋势.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.烧结矿Si趋势.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.烧结矿S趋势.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.TiO2.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.烧结矿Ti趋势.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.趋势参数.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.更新内容.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.查询.铁水质量查询条件.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.用户管理.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.澳矿成分录入.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.原料品味分析.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.入炉原料结构.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.回收率分析.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.数据汇总.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.热风炉顶压力分析.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料消耗分析.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.风温富氧率分析.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料质量分析.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.exe.licenses
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\RdlCompile.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\RdlCompile.compiled
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.application
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.出铁方案.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\LTZN2.61\LTZN\obj\Release\LTZN.出铁计划.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\LTZN.exe.config
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\office.dll
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\bin\Release\NPOI.xml
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.Query.AdvanceQueryForm.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.出铁方案.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.出铁计划.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.Cr趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.Mn趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.Ni趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.P趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.newS趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.new碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.物理热趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.原料分类.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.烧结矿P趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.烧结矿Si趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.烧结矿S趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.TiO2.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.烧结矿Ti趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.趋势参数.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.更新内容.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.查询.铁水质量查询条件.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.用户管理.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.质量日报.质量日报Form.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.澳矿成分录入.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.原料品味分析.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.入炉原料结构.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.回收率分析.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.数据汇总.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.热风炉顶压力分析.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料消耗分析.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.风温富氧率分析.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料质量分析.resources
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.exe.licenses
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\RdlCompile.cache
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\RdlCompile.compiled
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN2.61\LTZN\obj\Release\LTZN.料线探齿设置.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\LTZN.exe.config
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\office.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\bin\Release\NPOI.xml
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.Query.AdvanceQueryForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.出铁方案.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.出铁计划.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.Cr趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.Mn趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.Ni趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.P趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.newS趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.new碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.物理热趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.原料分类.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.烧结矿P趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.烧结矿Si趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.烧结矿S趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.TiO2.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.烧结矿Ti趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.趋势参数.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.料线探齿设置.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.更新内容.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.查询.铁水质量查询条件.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.用户管理.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.质量日报.质量日报Form.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.高炉燃料比综合分析.澳矿成分录入.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.高炉燃料比综合分析.原料品味分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.高炉燃料比综合分析.入炉原料结构.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.高炉燃料比综合分析.回收率分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.高炉燃料比综合分析.数据汇总.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.高炉燃料比综合分析.热风炉顶压力分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料消耗分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.高炉燃料比综合分析.风温富氧率分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料质量分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.exe.licenses
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\RdlCompile.cache
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\RdlCompile.compiled
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN2.6120161110\LTZN\obj\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\LTZN.exe.config
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.Query.AdvanceQueryForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.出铁方案.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.出铁计划.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.Cr趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.Mn趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.Ni趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.P趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.newS趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.new碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.物理热趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.原料分类.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.烧结矿P趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.烧结矿Si趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.烧结矿S趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.TiO2.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.烧结矿Ti趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.趋势参数.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.料线探齿设置.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.更新内容.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.查询.铁水质量查询条件.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.用户管理.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.质量日报.质量日报Form.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.高炉燃料比综合分析.澳矿成分录入.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.高炉燃料比综合分析.原料品味分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.高炉燃料比综合分析.入炉原料结构.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.高炉燃料比综合分析.回收率分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.高炉燃料比综合分析.数据汇总.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.高炉燃料比综合分析.热风炉顶压力分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料消耗分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.高炉燃料比综合分析.风温富氧率分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料质量分析.resources
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.exe.licenses
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\RdlCompile.cache
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\RdlCompile.compiled
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\office.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\bin\Release\NPOI.xml
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN2.6120161110 - 副本\LTZN\obj\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\LTZN.exe.config
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\office.dll
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\bin\Release\NPOI.xml
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.Query.AdvanceQueryForm.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.出铁方案.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.出铁计划.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.Cr趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.Mn趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.Ni趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.P趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.newS趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.new碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.物理热趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.原料分类.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.烧结矿P趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.烧结矿Si趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.烧结矿S趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.TiO2.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.烧结矿Ti趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.趋势参数.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.料线探齿设置.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.更新内容.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.查询.铁水质量查询条件.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.用户管理.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.质量日报.质量日报Form.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.高炉燃料比综合分析.澳矿成分录入.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.高炉燃料比综合分析.原料品味分析.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.高炉燃料比综合分析.入炉原料结构.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.高炉燃料比综合分析.回收率分析.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.高炉燃料比综合分析.数据汇总.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.高炉燃料比综合分析.热风炉顶压力分析.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料消耗分析.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.高炉燃料比综合分析.风温富氧率分析.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料质量分析.resources
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.exe.licenses
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\RdlCompile.cache
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\RdlCompile.compiled
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN2017\LTZN\obj\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\LTZN.exe.config
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\office.dll
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\bin\Release\NPOI.xml
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.Query.AdvanceQueryForm.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.出铁方案.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.出铁计划.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.Cr趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.Mn趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.Ni趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.P趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.newS趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.new碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.物理热趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.原料分类.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.烧结矿P趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.烧结矿Si趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.烧结矿S趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.TiO2.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.烧结矿Ti趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.趋势参数.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.料线探齿设置.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.更新内容.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.查询.铁水质量查询条件.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.用户管理.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.质量日报.质量日报Form.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.澳矿成分录入.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.原料品味分析.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.入炉原料结构.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.回收率分析.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.数据汇总.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.热风炉顶压力分析.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料消耗分析.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.风温富氧率分析.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料质量分析.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.exe.licenses
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\RdlCompile.cache
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\RdlCompile.compiled
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.透气性趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.煤气利用率趋势.resources
+C:\Users\Administrator\Desktop\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.燃料比趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\LTZN.exe.config
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.AboutBox.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.CalModelForm.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.MsgContentForm.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.MsgSendForm.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.MsgUnDealForm.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.NameDialog.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.ParaForm.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.Query.AdvanceQueryForm.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.UserManager.ManGroupForm.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.XiaohaoGaolu.XiaohaoGaolu.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.全厂日消耗.全厂日消耗窗体.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.出铁方案.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.出铁计划.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.原料消耗.原料消耗.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.密码更改窗体.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术年报.年报浏览窗体.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术日报.RiReportForm.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术日报.报表显示窗体.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术日报.数据修改窗体.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术月报.Form1.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术月报.MonthReportForm.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术月报.技术月报窗体.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.技术月报.月报调整.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.Cr趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.MaterialAnalysisForm.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.Mn趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.Ni趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.P趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.S趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.newS趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.new碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.燃料比趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.煤气利用率趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.透气性趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.物理热趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.原料分类.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.烧结矿P趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.烧结矿Si趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.烧结矿S趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.产量.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.剩余热.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.出铁数据.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.TiO2.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.参数设定.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.炉温.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.烧结矿Ti趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.碱度趋势.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.趋势参数.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.料线探齿设置.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.更新内容.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.查询.其它数据参数.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.查询.基准风温.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.查询.数据查询窗口.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.查询.查询条件.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.查询.铁水质量查询条件.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.炼铁智能主窗体.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.数据分析.SPCLegend.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.生产日报.生产日报.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.用户管理.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.登陆窗体.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.调度.调度窗体.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.质量日报.质量日报Form.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.澳矿成分录入.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.原料品味分析.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.入炉原料结构.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.回收率分析.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.数据汇总.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.热风炉顶压力分析.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料消耗分析.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.风温富氧率分析.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.高炉燃料比综合分析.燃料质量分析.resources
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.exe.licenses
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\RdlCompile.cache
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\RdlCompile.compiled
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\LTZN.application
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\LTZN.exe
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\LTZN.pdb
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Chart.2.dll
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Command.2.dll
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1FlexGrid.2.dll
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Input.2.dll
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\office.dll
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Chart.2.xml
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Command.2.xml
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1Input.2.xml
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\C1.Win.C1FlexGrid.2.xml
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\bin\Release\NPOI.xml
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.exe.manifest
+C:\Users\Administrator\Desktop\LTZN20180914\LTZN2017.1.20\LTZN\obj\Release\LTZN.application

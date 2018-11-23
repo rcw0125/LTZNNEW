@@ -1,0 +1,97 @@
+SQL> drop table LTZN_Para;
+drop table LTZN_Para
+           *
+ERROR 位于第 1 行: 
+ORA-00942: 表或视图不存在 
+
+
+SQL> create table LTZN_Para(
+  2   Name varchar2(1000),
+  3   Val number(18,8),
+  4   StrVal varchar2(1000),
+  5   Constraint LTZN_Para_Primary_Key Primary Key(Name)
+  6   );
+
+表已创建。
+
+SQL> insert into LTZN_Para(Name,Val) values('Si最大',0.7);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('Si次大',0.5);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('Si次小',0.3);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('Si最小',0.2);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('S单值上限',0.030021);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('S单值均值',0.02024);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('S单值下限',0.010027);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('S极差上限',0.01225);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('S极差均值',0.00375);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('S极差下限',0);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('R最大',1.25);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('R次大',1.20);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('R次小',1.07);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('R最小',1);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('Si显示最大值',1);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('Si显示最小值',0);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('S显示最大值',1);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('S显示最小值',0);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('R显示最大值',1);
+
+已创建 1 行。
+
+SQL> insert into LTZN_Para(Name,Val) values('R显示最小值',0);
+
+已创建 1 行。
+
+SQL> spool off;

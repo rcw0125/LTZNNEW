@@ -1,0 +1,17 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>C:\Users\rcw\Desktop\Debug\|\\192.168.39.200\ltzn40\|\\192.168.39.200\ltznweb\|http://192.168.38.200/|\\192.168.39.200\ltznwebxin\</PublishUrlHistory>
+    <InstallUrlHistory>http://192.168.39.200:90/|http://192.168.39.200/|http://192.168.38.200/|http://192.168.38.28/|\\192.168.38.200\ltznweb\</InstallUrlHistory>
+    <SupportUrlHistory>http://192.168.39.200:90/|http://192.168.38.200/|http://192.168.39.200:8080/|http://192.168.39.200/|http://192.168.38.28/</SupportUrlHistory>
+    <UpdateUrlHistory>http://192.168.39.200:90/|http://192.168.38.200/|http://192.168.38.28/|http://192.168.39.200:8080/|http://192.168.39.200/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ReferencePath>C:\Program Files\Common Files\Business Objects\2.7\Managed\</ReferencePath>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+  </PropertyGroup>
+</Project>

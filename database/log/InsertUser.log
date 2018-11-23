@@ -1,0 +1,19 @@
+SQL> 
+SQL> Delete from UserRole where UserName='admin';
+
+已删除0行。
+
+SQL> Delete from Users where yonghu='admin';
+
+已删除0行。
+
+SQL> Insert Into Users(yonghu,mima) values('admin','admin');
+
+已创建 1 行。
+
+SQL> Insert Into UserRole(UserName,Role) values('admin','管理员');
+
+已创建 1 行。
+
+SQL> 
+SQL> spool off;

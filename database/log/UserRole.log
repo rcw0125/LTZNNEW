@@ -1,0 +1,72 @@
+SQL> 
+SQL> drop table UserRole;
+drop table UserRole
+           *
+ERROR 位于第 1 行: 
+ORA-00942: 表或视图不存在 
+
+
+SQL> drop table Roles;
+
+表已丢弃。
+
+SQL> 
+SQL> --角色表
+SQL> create table Roles(
+  2    Name varchar2(255),
+  3    Description varchar2(255),
+  4    CONSTRAINT RolesKey PRIMARY KEY(Name)
+  5  );
+
+表已创建。
+
+SQL> insert into Roles(name) values('管理员');
+
+已创建 1 行。
+
+SQL> insert into Roles(name) values('调度');
+
+已创建 1 行。
+
+SQL> insert into Roles(name) values('统计');
+
+已创建 1 行。
+
+SQL> insert into Roles(name) values('普通');
+
+已创建 1 行。
+
+SQL> insert into Roles(name) values('1高炉');
+
+已创建 1 行。
+
+SQL> insert into Roles(name) values('2高炉');
+
+已创建 1 行。
+
+SQL> insert into Roles(name) values('3高炉');
+
+已创建 1 行。
+
+SQL> insert into Roles(name) values('4高炉');
+
+已创建 1 行。
+
+SQL> insert into Roles(name) values('5高炉');
+
+已创建 1 行。
+
+SQL> --用户角色关系表
+SQL> create table UserRole(
+  2   UserName varchar2(255),
+  3   Role varchar2(255),
+  4   CONSTRAINT UserRoleKey PRIMARY KEY(UserName,Role),
+  5   CONSTRAINT UserRoleForeignUser FOREIGN KEY(UserName)
+  6  	 REFERENCES Users(yonghu),
+  7   CONSTRAINT UserRoleForeignRole FOREIGN KEY(Role)
+  8  	 REFERENCES Roles(Name)
+  9   );
+
+表已创建。
+
+SQL> spool off;
