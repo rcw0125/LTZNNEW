@@ -111,6 +111,7 @@
             this.superTabControl1 = new Skin.Bars.SuperTabControl();
             this.superTabControlPanel1 = new Skin.Bars.SuperTabControlPanel();
             this.superTabItem1 = new Skin.Bars.SuperTabItem();
+            this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
             this.statusStrip.SuspendLayout();
             this.主菜单.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.superTabControl1)).BeginInit();
@@ -122,7 +123,8 @@
             this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel,
             this.toolStripStatusLabel1,
-            this.tsMsg});
+            this.tsMsg,
+            this.toolStripStatusLabel2});
             this.statusStrip.Location = new System.Drawing.Point(0, 396);
             this.statusStrip.Name = "statusStrip";
             this.statusStrip.Size = new System.Drawing.Size(766, 22);
@@ -809,6 +811,13 @@
             this.superTabItem1.Name = "superTabItem1";
             this.superTabItem1.Text = "欢迎使用";
             // 
+            // toolStripStatusLabel2
+            // 
+            this.toolStripStatusLabel2.Margin = new System.Windows.Forms.Padding(4, 3, 0, 2);
+            this.toolStripStatusLabel2.Name = "toolStripStatusLabel2";
+            this.toolStripStatusLabel2.Size = new System.Drawing.Size(44, 17);
+            this.toolStripStatusLabel2.Text = "版本号";
+            // 
             // 炼铁智能主窗体
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -919,6 +928,7 @@
         private Skin.Bars.SuperTabControl superTabControl1;
         private Skin.Bars.SuperTabControlPanel superTabControlPanel1;
         private Skin.Bars.SuperTabItem superTabItem1;
+        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel2;
     }
 }
 

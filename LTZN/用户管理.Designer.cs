@@ -50,6 +50,7 @@
             this.txt_ChgPsw2 = new System.Windows.Forms.TextBox();
             this.txt_ChgPsw1 = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
@@ -158,7 +159,7 @@
             this.lst_AllUsers.ItemHeight = 12;
             this.lst_AllUsers.Location = new System.Drawing.Point(0, 14);
             this.lst_AllUsers.Name = "lst_AllUsers";
-            this.lst_AllUsers.Size = new System.Drawing.Size(164, 328);
+            this.lst_AllUsers.Size = new System.Drawing.Size(164, 331);
             this.lst_AllUsers.TabIndex = 1;
             this.lst_AllUsers.SelectedIndexChanged += new System.EventHandler(this.lst_AllUsers_SelectedIndexChanged);
             // 
@@ -180,7 +181,7 @@
             this.lst_Roles.FormattingEnabled = true;
             this.lst_Roles.Location = new System.Drawing.Point(0, 121);
             this.lst_Roles.Name = "lst_Roles";
-            this.lst_Roles.Size = new System.Drawing.Size(399, 212);
+            this.lst_Roles.Size = new System.Drawing.Size(399, 224);
             this.lst_Roles.TabIndex = 2;
             this.lst_Roles.ItemCheck += new System.Windows.Forms.ItemCheckEventHandler(this.lst_Roles_ItemCheck);
             // 
@@ -290,6 +291,7 @@
             this.splitContainer1.Panel1.PerformLayout();
             this.splitContainer1.Panel2.ResumeLayout(false);
             this.splitContainer1.Panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();

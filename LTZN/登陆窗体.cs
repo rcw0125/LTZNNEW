@@ -38,6 +38,11 @@ namespace LTZN
         public 登陆窗体()
         {
             InitializeComponent();
+            string strNetVersion = LtznUserManager.getNetVersion();
+            if (strNetVersion != System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString().Replace(".", ""))
+            {
+                MessageBox.Show("不是最新的客户端，请联系技术人员及时更新！");
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)

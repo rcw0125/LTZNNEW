@@ -21,6 +21,7 @@ namespace LTZN
         {
             Rcw.Method.Common.CheckUpdate();
             InitializeComponent();
+            toolStripStatusLabel2.Text = "软件版本号："+System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString();
             LtznUserManager.instance.RegisterHandler(this, instance_UserChanged);
             //UDPListener.instance.MsgEvent += new MsgEventDelegate(instance_MsgEvent);
             //UDPListener.instance.MsgDealEvent += new MsgDealEventDelegate(instance_MsgDealEvent);

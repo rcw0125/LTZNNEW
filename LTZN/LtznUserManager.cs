@@ -217,6 +217,38 @@ namespace LTZN
             return roles.ToArray();
         }
 
+        public static string getNetVersion()
+        {
+            List<string> roles = new List<string>();
+            try
+            {
+                OracleConnection conn = new OracleConnection(Properties.Settings.Default.ltznConnectionString);
+                conn.Open();
+                string sql = "select vno from clientversion";
+                OracleCommand cmd = new OracleCommand(sql, conn);
+                OracleDataReader dr = cmd.ExecuteReader();
+                while (dr.Read())
+                {
+                    roles.Add(dr.GetString(0));
+                }
+                dr.Close();
+                conn.Close();
+                if (roles.Count > 0)
+                {
+                    return roles[0];
+                }
+                else
+                {
+                    return "";
+                }
+            }
+            catch
+            {
+                return "";
+            }
+          
+        }
+
         public LtznUser CurrentUser
         {
             get { return currentUser; }

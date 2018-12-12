@@ -152,23 +152,23 @@ namespace LTZN
             }
         }
 
-        private DateTime? _kksj;
-        [DisplayName("开口时间")]
-        public DateTime? kksj
-        {
-            get
-            {
-                return _kksj;
-            }
-            set
-            {
-                if (_kksj != value)
-                {
-                    _kksj = value;
-                    RaisePropertyChanged("kksj", true);
-                }
-            }
-        }
+        //private DateTime? _kksj;
+        //[DisplayName("开口时间")]
+        //public DateTime? kksj
+        //{
+        //    get
+        //    {
+        //        return _kksj;
+        //    }
+        //    set
+        //    {
+        //        if (_kksj != value)
+        //        {
+        //            _kksj = value;
+        //            RaisePropertyChanged("kksj", true);
+        //        }
+        //    }
+        //}
 
         private DateTime? _dksj;
         [DisplayName("出铁时间")]

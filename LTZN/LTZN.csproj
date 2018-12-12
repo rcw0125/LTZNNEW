@@ -232,6 +232,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>lxbz.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="技术日报\技术日报数据集.cs">
       <DependentUpon>技术日报数据集.xsd</DependentUpon>
     </Compile>
@@ -361,7 +362,6 @@
       <DependentUpon>ParaForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
-    <Compile Include="Properties\DataSources\AssemblyInfo.cs" />
     <EmbeddedResource Include="AboutBox.resx">
       <DependentUpon>AboutBox.cs</DependentUpon>
     </EmbeddedResource>
